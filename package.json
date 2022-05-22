@@ -4,4 +4,4 @@
   "description": "Starter template for building ModelFusion terminal apps with TypeScript.",
   "scripts": {
     "start": "npx tsx src/main.ts"
-  
+  },
