@@ -5,4 +5,4 @@
   "scripts": {
     "start": "npx tsx src/main.ts"
   },
-  "author": "Lars 
+  "author": "Lars G
