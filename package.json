@@ -6,4 +6,4 @@
     "start": "npx tsx src/main.ts"
   },
   "author": "Lars Grammel",
-  "license": "MIT
+  "license": "MIT"
