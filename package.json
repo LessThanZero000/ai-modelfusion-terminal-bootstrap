@@ -8,4 +8,4 @@
   "author": "Lars Grammel",
   "license": "MIT",
   "dependencies": {
-    "modelfusion": ">= 0.122.0"
+    "modelfusion": ">= 0.122.0",
