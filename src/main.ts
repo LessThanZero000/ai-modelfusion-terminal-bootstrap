@@ -1,2 +1,2 @@
 import dotenv from "dotenv";
-imp
+impor
