@@ -1,2 +1,2 @@
 import dotenv from "dotenv";
-import { openai, streamText } f
+import { openai, streamText } fr
