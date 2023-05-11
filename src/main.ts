@@ -1,2 +1,2 @@
 import dotenv from "dotenv";
-import { openai, streamText } from "mode
+import { openai, streamText } from "model
