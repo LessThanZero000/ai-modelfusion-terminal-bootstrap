@@ -1,2 +1,2 @@
 import dotenv from "dotenv";
-import { openai, streamText } from "modelf
+import { openai, streamText } from "modelfusi
