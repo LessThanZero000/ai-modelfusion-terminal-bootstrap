@@ -3,4 +3,4 @@ import { openai, streamText } from "modelfusion";
 
 dotenv.config();
 
-async func
+async funct
