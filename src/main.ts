@@ -4,4 +4,4 @@ import { openai, streamText } from "modelfusion";
 dotenv.config();
 
 async function main() {
-  const textStream = a
+  const textStream = aw
