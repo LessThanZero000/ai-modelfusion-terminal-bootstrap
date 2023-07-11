@@ -5,4 +5,4 @@ dotenv.config();
 
 async function main() {
   const textStream = await streamText({
-    model: openai.Com
+    model: openai.Compl
