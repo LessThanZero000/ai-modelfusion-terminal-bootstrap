@@ -6,4 +6,4 @@ dotenv.config();
 async function main() {
   const textStream = await streamText({
     model: openai.CompletionTextGenerator({
-      model: "gpt-3.5-
+      model: "gpt-3.5-tu
