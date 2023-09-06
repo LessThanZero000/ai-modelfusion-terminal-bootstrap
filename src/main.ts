@@ -9,4 +9,4 @@ async function main() {
       model: "gpt-3.5-turbo-instruct",
       maxGenerationTokens: 500,
     }),
-    promp
+    prompt
