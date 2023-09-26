@@ -10,4 +10,4 @@ async function main() {
       maxGenerationTokens: 500,
     }),
     prompt:
-      "Say 'Hello, World!' i
+      "Say 'Hello, World!' in 
