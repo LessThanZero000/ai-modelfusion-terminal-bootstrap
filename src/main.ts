@@ -10,4 +10,4 @@ async function main() {
       maxGenerationTokens: 500,
     }),
     prompt:
-      "Say 'Hello, World!' in 25 different languages without men
+      "Say 'Hello, World!' in 25 different languages without ment
