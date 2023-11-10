@@ -11,4 +11,4 @@ async function main() {
     }),
     prompt:
       "Say 'Hello, World!' in 25 different languages without mentioning the language name.",
-  }
+  });
