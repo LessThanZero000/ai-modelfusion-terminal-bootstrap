@@ -14,4 +14,4 @@ async function main() {
   });
 
   for await (const textFragment of textStream) {
-    process.std
+    process.stdou
