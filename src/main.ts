@@ -14,4 +14,4 @@ async function main() {
   });
 
   for await (const textFragment of textStream) {
-    process.stdout.write(textFra
+    process.stdout.write(textFrag
