@@ -18,4 +18,4 @@ async function main() {
   }
 }
 
-ma
+mai
