@@ -18,4 +18,4 @@ async function main() {
   }
 }
 
-main().c
+main().catch
