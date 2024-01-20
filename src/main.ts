@@ -18,4 +18,4 @@ async function main() {
   }
 }
 
-main().catch((e
+main().catch((er
