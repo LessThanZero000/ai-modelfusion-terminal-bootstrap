@@ -19,4 +19,4 @@ async function main() {
 }
 
 main().catch((error) => {
-  console.error(er
+  console.error(error
