@@ -2,3 +2,4 @@
 {
   "compilerOptions": {
     "strict": true,
+    "declaration": true,
