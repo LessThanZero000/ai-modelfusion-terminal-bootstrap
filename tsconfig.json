@@ -4,3 +4,4 @@
     "strict": true,
     "declaration": true,
     "sourceMap": true,
+    "target": "es2020",
