@@ -7,3 +7,4 @@
     "target": "es2020",
     "lib": ["es2020", "dom"],
     "module": "commonjs",
+    "types": ["node"],
