@@ -12,3 +12,4 @@
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
     "rootDir": "./src",
+    "outDir": "./.build/js",
