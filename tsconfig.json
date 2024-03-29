@@ -14,3 +14,4 @@
     "rootDir": "./src",
     "outDir": "./.build/js",
     "skipLibCheck": true
+  },
