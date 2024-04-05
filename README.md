@@ -9,3 +9,5 @@ This AI ModelFusion Terminal Bootstrap serves as a template for development of y
 - Obtain your [OpenAI API](https://platform.openai.com/overview) key.
 
 ## Code Acquisition
+
+Clone this repo to your local machine.
