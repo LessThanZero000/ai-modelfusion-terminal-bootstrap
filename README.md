@@ -6,3 +6,6 @@ This AI ModelFusion Terminal Bootstrap serves as a template for development of y
 ## Preliminary Requirements
 
 - Download and Install [Node.js](https://nodejs.org/en/download/), version 18 or above.
+- Obtain your [OpenAI API](https://platform.openai.com/overview) key.
+
+## Code Acquisition
