@@ -11,3 +11,5 @@ This AI ModelFusion Terminal Bootstrap serves as a template for development of y
 ## Code Acquisition
 
 Clone this repo to your local machine.
+
+```sh
