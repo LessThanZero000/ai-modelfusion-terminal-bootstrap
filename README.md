@@ -13,3 +13,4 @@ This AI ModelFusion Terminal Bootstrap serves as a template for development of y
 Clone this repo to your local machine.
 
 ```sh
+git clone https://github.com/LessThanZero000/ai-modelfusion-terminal-bootstrap.git
