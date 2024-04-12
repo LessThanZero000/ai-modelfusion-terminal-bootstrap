@@ -16,3 +16,5 @@ Clone this repo to your local machine.
 git clone https://github.com/LessThanZero000/ai-modelfusion-terminal-bootstrap.git
 ```
 ## Dependency Installation
+
+Once cloned, navigate to the project directory and install the necessary packages.
