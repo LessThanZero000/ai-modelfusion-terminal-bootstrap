@@ -21,3 +21,6 @@ Once cloned, navigate to the project directory and install the necessary package
 
 ```sh
 cd ai-modelfusion-terminal-bootstrap
+npm install
+```
+## API Key Management
