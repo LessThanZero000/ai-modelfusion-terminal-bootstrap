@@ -20,3 +20,4 @@ git clone https://github.com/LessThanZero000/ai-modelfusion-terminal-bootstrap.g
 Once cloned, navigate to the project directory and install the necessary packages.
 
 ```sh
+cd ai-modelfusion-terminal-bootstrap
