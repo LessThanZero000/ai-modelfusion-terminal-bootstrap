@@ -24,3 +24,7 @@ cd ai-modelfusion-terminal-bootstrap
 npm install
 ```
 ## API Key Management
+
+In the root of the project create a .env file and enter your OpenAI API key as follows:
+
+```sh
