@@ -31,3 +31,5 @@ In the root of the project create a .env file and enter your OpenAI API key as f
 OPENAI_API_KEY="your-api-key"
 ```
 ## Application Launch
+
+To start the application, run the command below:
