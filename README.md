@@ -33,3 +33,6 @@ OPENAI_API_KEY="your-api-key"
 ## Application Launch
 
 To start the application, run the command below:
+
+```sh
+npm start
