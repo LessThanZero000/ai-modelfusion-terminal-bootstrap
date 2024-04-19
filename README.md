@@ -36,3 +36,4 @@ To start the application, run the command below:
 
 ```sh
 npm start
+```
