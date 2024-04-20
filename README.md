@@ -37,3 +37,4 @@ To start the application, run the command below:
 ```sh
 npm start
 ```
+You've made it! You're now free to modify the bootstrap to suit your own AI terminal app creation needs.
